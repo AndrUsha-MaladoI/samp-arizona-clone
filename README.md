@@ -1,1 +1,12 @@
-# samp-arizona-clone
+# SAMP Arizona Clone
+Это копия сервера SAMP на базе гейм-мода Arizona.
+
+## Установка
+1. Скачайте сервер и поместите в папку `server`.
+2. Отредактируйте файл `server.cfg`.
+3. Запустите `samp-server.exe`.
+
+## Лаунчер
+В папке `launcher` находится пример простого лаунчера. Для запуска используйте:
+```bash
+python launcher.py
